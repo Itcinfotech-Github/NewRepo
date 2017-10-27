@@ -7,7 +7,7 @@ public class GithubDemo {
 
 		System.out.println("Hello git");
 		System.out.println("Hello Hub");
-		System.out.println("Hello new Hub");
+		System.out.println("Hello new Hub1");
 	}
 
 }
